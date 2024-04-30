@@ -5,7 +5,7 @@
 > ⭐ This user is super cool!
 
 
-<div style="display: flex; gap: 10px;">
+<div>
   <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/124ab7f9-795d-4327-89cd-56969871d21a" alt="Python" title="Python" width="100" />
   <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/9ac8f5bb-b6b3-472e-b69c-85f8cf0828e3" alt="HTML5" title="HTML5" width="100" />
   <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/749c7e1e-3736-44d1-bef3-ecf30da77539" alt="CSS" title="CSS" width="100" />
@@ -20,6 +20,5 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" title="Lang Stats"/>
-
-![View Counter](https://komarev.com/ghpvc/?username=Rokawoo&style=flat-square&color=6568cc)
+<img src="https://komarev.com/ghpvc/?username=Rokawoo&style=flat-square&color=6568cc" alt="View Counter" draggable="false" />
 
