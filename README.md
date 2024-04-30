@@ -6,19 +6,19 @@
 
 
 <div>
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/124ab7f9-795d-4327-89cd-56969871d21a" alt="Python" title="Python" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/9ac8f5bb-b6b3-472e-b69c-85f8cf0828e3" alt="HTML5" title="HTML5" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/749c7e1e-3736-44d1-bef3-ecf30da77539" alt="CSS" title="CSS" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/c950ec1a-643d-4760-b91d-b1d19c7c232e" alt="JS" title="JS" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/2e7c2274-56ef-49a5-a005-d5f579a32834" alt="Node JS" title="Node JS" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/3fb5ce54-d12a-46a7-bdbe-4c29ab9455e0" alt="React" title="React" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/f1d4d345-309b-4a64-8afd-c12b4fe79956" alt="VS Code" title="VS Code" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/72bc8ee2-6aaf-4a34-ab9e-ea0ca06d1762" alt="Jet Brains" title="Jet Brains" width="100" />
-  <img src="https://github.com/Rokawoo/Rokawoo/assets/129356996/c108846d-60f2-4313-b8ca-7f72501b57602" alt="GIT" title="GIT" width="100" style="position: relative; top: 500px;"/>
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" alt="Python" title="Python" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" alt="HTML5" title="HTML5" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS.gif" alt="CSS" title="CSS" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" alt="JS" title="JS" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/NODE.gif" alt="Node" title="Node" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" alt="React" title="React" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/VSCODE.gif" alt="VS Code" title="VS Code" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JETBRAINS.gif" alt="Jet Brains" title="Jet Brains" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" alt="GIT" title="GIT" width="100"/>
 </div>
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" title="Lang Stats"/>
-<img src="https://komarev.com/ghpvc/?username=Rokawoo&style=flat-square&color=6568cc" alt="View Counter" draggable="false" />
+<img src="https://komarev.com/ghpvc/?username=Rokawoo&style=pastic&color=6568cc" alt="View Counter" draggable="false" />
 
