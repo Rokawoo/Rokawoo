@@ -1,7 +1,4 @@
-<div style="display: flex; gap: 10px; align-items: flex-start;" >
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/SuperiorMari.png" alt="Rokawoo" height="400" title="Awoo!"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" title="Lang Stats"/>
-</div>
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/SuperiorMari.png" alt="Rokawoo" height="500" title="Awoo!"/>
 <h1>$\text{Hi, I'm }\textcolor{#ffeb88}{\text{R}}\textcolor{#7a6cd2}{\text{o}}\textcolor{#ffeb88}{\text{k}}\textcolor{#7a6cd2}{\text{a}}\text{woo!}$</h1>
 
 > [!CAUTION]
@@ -22,5 +19,6 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" title="Lang Stats"/>
 ![View Counter](https://komarev.com/ghpvc/?username=Rokawoo&style=flat-square&color=6568cc)
 
