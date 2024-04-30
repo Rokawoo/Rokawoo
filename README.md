@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/SuperiorMari.png" alt="Rokawoo" height="500"/>
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/SuperiorMari.png" alt="Rokawoo" height="500" width="auto" title="Awoo!"/>
   <h1>$\text{Hi, I'm }\textcolor{#ffeb88}{\text{R}}\textcolor{#7a6cd2}{\text{o}}\textcolor{#ffeb88}{\text{k}}\textcolor{#7a6cd2}{\text{a}}\text{woo!}$</h1>
 </div>
 
