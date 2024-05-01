@@ -9,7 +9,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" alt="Python" title="Python" width="100" />
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" alt="HTML5" title="HTML5" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS.gif" alt="CSS" title="CSS" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" alt="CSS" title="CSS" width="100" />
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" alt="JS" title="JS" width="100" />
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/NODE.gif" alt="Node" title="Node" width="100" />
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" alt="React" title="React" width="100" />
