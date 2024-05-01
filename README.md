@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/SuperiorMari.png" alt="Rokawoo" height="500" title="Awoo!"/>
-<h1>$\text{Hello World, I'm }\textcolor{#ffeb88}{\text{R}}\textcolor{#7a6cd2}{\text{o}}\textcolor{#ffeb88}{\text{k}}\textcolor{#7a6cd2}{\text{a}}\text{woo!}$</h1>
+
+<h1>$\texttt{Hello World, I'm }\textcolor{#ffeb88}{\texttt{R}}\textcolor{#7a6cd2}{\texttt{o}}\textcolor{#ffeb88}{\texttt{k}}\textcolor{#7a6cd2}{\texttt{a}}\texttt{woo!}$</h1>
 
 > [!CAUTION]
 > ⭐ This user is super cool!
